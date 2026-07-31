@@ -1,6 +1,10 @@
-DOMAIN,lucen.cc
 DOMAIN,sssaicode.com
 DOMAIN,node-hk.sssaicode.com
 DOMAIN,claude2.sssaicode.com
 DOMAIN,anti.sssaicode.com
 DOMAIN,rotree.cloud
+
+DOMAIN-SUFFIX,anytokens.cc
+DOMAIN-SUFFIX,lucen.cc
+DOMAIN-SUFFIX,molifangapi.com
+DOMAIN,api.perbell.com
